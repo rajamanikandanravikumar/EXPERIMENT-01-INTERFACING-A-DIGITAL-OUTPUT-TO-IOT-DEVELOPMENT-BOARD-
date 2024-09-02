@@ -105,7 +105,8 @@ while (1)
 
 ## OUTPUT  :
  
- ![Screenshot 2024-09-02 093246](https://github.com/user-attachments/assets/7ff1ac54-d045-456b-8159-a8650150defe)
+![Screenshot 2024-09-02 183544](https://github.com/user-attachments/assets/335aa366-0fb5-447b-b42c-0a15e878ad11)
+
 
  
  
